@@ -8,7 +8,7 @@ This repository contains code for a simple drum kit web application built using 
 
 ## Usage:
 1. Clone this repository to your local machine.
-git clone https://github.com/your-username/drum-kit.git
+git clone https://github.com/nilufarshaikh/drum-kit-javascript-project.git
 
 2. Open the `index.html` file in your web browser.
 3. Press the keys displayed on the screen or click the buttons to play the corresponding drum sounds.
